@@ -3,7 +3,7 @@ Are you an ACM Student Chapter member but not on the Github Organization?
 If you answered yes to the above question please follow the following steps:
 
 1. Fork this repo
-2. Add your Name and Github username to the bottom of this file
+2. Add your Name and Github username to the **bottom of this file**
 3. Don't delete anything that already exists
 4. Submit a Pull Request to this repository (If you don't know how to, now is the best time to learn!)
 
@@ -13,4 +13,4 @@ _P.S. This file is written in Markdown format so if you want to create a new lin
 
 ## Members
 Srujan Deshpande - srujandeshpande  
-Siva Surya Babu - siv12345
+Siva Surya Babu - siv12345  
