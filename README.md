@@ -9,6 +9,7 @@ If you answered yes to the above question please follow the following steps:
 
 If you are already a part of the organization but still want to follow the steps, PR away! :)
 
+_P.S. This file is written in Markdown format so if you want to create a new line, add **2 spaces** to the end of the previous line._
 
 ## Members
 Srujan Deshpande - srujandeshpande
