@@ -15,5 +15,6 @@ _P.S. This file is written in Markdown format so if you want to create a new lin
 Srujan Deshpande - srujandeshpande  
 Siva Surya Babu - siv12345  
 Vihar Devalla - vihardevalla  
-Arpit Nigam -arpitnigam45  
+Arpit Nigam - arpitnigam45  
 Tejus D - Tejus-Dinesh
+Joe Rishon Manoj - JoeRishon
