@@ -17,6 +17,8 @@ Siva Surya Babu - siv12345
 Vihar Devalla - vihardevalla  
 Arpit Nigam - arpitnigam45  
 Tejus D - Tejus-Dinesh  
+Joe Rishon Manoj - JoeRishon  
+Kalikidhar Reddy - kalikidhar
 Joe Rishon Manoj - JoeRishon
 Chinmayi Shetty - chinmayishetty359
 Avinash V K - avinash-vk
