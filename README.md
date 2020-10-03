@@ -14,15 +14,13 @@ _P.S. This file is written in Markdown format so if you want to create a new lin
 ## Members
 Srujan Deshpande - srujandeshpande  
 Siva Surya Babu - siv12345  
-Rishab Kashyap -Rishabkashyap14
-Vihar Devalla - vihardevalla  
-Arpit Nigam - arpitnigam45  
+Rishab Kashyap -Rishabkashyap14  
+Vihar Devalla - vihardevalla    
+Arpit Nigam - arpitnigam45    
 Tejus D - Tejus-Dinesh  
 Joe Rishon Manoj - JoeRishon  
-Kalikidhar Reddy - kalikidhar
-Joe Rishon Manoj - JoeRishon
-Chinmayi Shetty - chinmayishetty359
-Avinash V K - avinash-vk
-Joe Rishon Manoj - JoeRishon  
-Varun Seshu - Varun487
-Pradish Kapur - pk-95
+Kalikidhar Reddy - kalikidhar    
+Chinmayi Shetty - chinmayishetty359  
+Avinash V K - avinash-vk   
+Varun Seshu - Varun487  
+Pradish Kapur - pk-95  
