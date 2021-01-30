@@ -2,9 +2,10 @@
 Are you an ACM Student Chapter member but not on the Github Organization?  
 If you answered yes to the above question please follow the following steps:
 
-1. Fork this repo
-2. Add your Name and Github username to the **bottom of this file**
-3. Don't delete anything that already exists
+1. Create a Github account (If you don't already have one)
+2. Fork this repo (Button named fork on the top right)
+3. Add your Name and Github username to the **bottom of this file**
+4. Don't delete anything that already exists
 4. Submit a Pull Request to this repository (If you don't know how to, now is the best time to learn!)
 
 If you do not know what these steps mean, what any of these words mean, or what is even going on, please drop a message on the whatsapp or discord groups! We're happy to help :-)  
