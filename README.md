@@ -9,7 +9,7 @@ If you answered yes to the above question please follow the following steps:
 4. Submit a Pull Request to this repository (If you don't know how to, now is the best time to learn!)
 
 If you do not know what these steps mean, what any of these words mean, or what is even going on, please drop a message on the whatsapp or discord groups! We're happy to help :-)  
-If you are already a part of the organization but still want to follow the steps, PR away! :)  
+If you are already a part of the organization but still want to follow the steps, PR away! :)
 
 _P.S. This file is written in Markdown format so if you want to create a new line, add **2 spaces** to the end of the previous line._
 
@@ -27,3 +27,4 @@ Avinash V K - avinash-vk
 Varun Seshu - Varun487  
 Pradish Kapur - pk-95  
 Noel Saju - Noel-jediknight
+Navin Shrinivas-NavinShrinivas
